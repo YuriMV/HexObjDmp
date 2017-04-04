@@ -1,6 +1,6 @@
 #!/bin/bash
 #hexobjdmp.sh
-#gera só o hex opcode
+#by: vold
 if [ -z $1 ]
 then
  printf "\e[0;31mUso: bash $0 arquivo\e[0m"
